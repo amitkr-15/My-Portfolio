@@ -1,8 +1,19 @@
-# React + Vite
+# My Portfolio 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ <h1> Using ReactJs, JS , React Icon , Tailwind CSS , Implementing Google maps  . </h1>
 
-Currently, two official plugins are available:
+<h1> Home Page </h1>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+<h4>Instructions</h4> 
+
+1.git clone git@github.com:amitkr-15/My-Portfolio.git
+2. cd My-Portfolio
+3. Install node dependencies 
+   <p> npm install </p>
+   <p> npm audit fix</p>
+4. server run - npm run dev
+
+
+
+
